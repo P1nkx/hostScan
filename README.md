@@ -1,4 +1,6 @@
 # hostScan
+**Exemple**
 hostScan.sh 127.0.0.1/24
 
-Escaneig de host a traves de traces ICMP, pendent de afegir la opcio de fer-ho sense traces ICMP per poder evadir Firewalls que impedeixin el ping
+## Descripció
+Escaneig de host a través de traces ICMP, pendent d'afegir l'opcio de fer-ho sense traces ICMP per poder evadir Tallafocs que impedeixin el ping.
